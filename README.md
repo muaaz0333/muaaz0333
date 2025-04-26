@@ -19,6 +19,6 @@
 - 🔗 **Portfolio:** [muaaz1.netlify.app](https://muaaz1.netlify.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/expertfullstackdeveloper](https://www.linkedin.com/in/expertfullstackdeveloper/)
 - 🧑‍💻 **GitHub:** [github.com/muaaz0333](https://github.com/muaaz0333)
-- 📫 **Email:** [muaazahmad001@gmail.com](muaazahmad001@gmail.com)
+- 📫 **Email:** muaazahmad001@gmail.com
 - 📈 **Upwork** [upwork.com/FullStackDeveloperMuaaz](https://www.upwork.com/freelancers/~0108f3b27299c04dd4)
 
